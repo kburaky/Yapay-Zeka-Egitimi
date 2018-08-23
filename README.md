@@ -5,7 +5,7 @@ Bu repo altında temel ve giriş bilgileri yayınlanacaktır. (Yapım Aşamasın
 * [Kurulumlar](https://github.com/metover/Yapay-Zeka/blob/master/Kurulumlar.ipynb)
 
 
-# MNIST
+## MNIST
 MNIST datasetini bilgisayarınıza repo içerisindeki "MNIST" klasörünü indirerek kullanabilirsiniz.
 
 Ayrıca indirilmeyi "mnistdownload.py" dosyası üzerinden yapmak için bulunduğunuz dizinde bir komut satırı açın.
