@@ -10,7 +10,9 @@ MNIST datasetini bilgisayarınıza repo içerisindeki "MNIST" klasörünü indir
 
 Ayrıca indirilmeyi "mnistdownload.py" dosyası üzerinden yapmak için bulunduğunuz dizinde bir komut satırı açın.
 
-'''python mnistdownload.py'''
+""" 
+python mnistdownload.py
+"""
 
 komutunu çalıştırarak ototmatik olarak da indirebilirsiniz.
 
