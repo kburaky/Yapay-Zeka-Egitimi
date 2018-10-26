@@ -2,19 +2,9 @@
 
 Bu repo altında temel ve giriş bilgileri yayınlanacaktır. (Yapım Aşamasında düzenleme ve eklemeler devam ediyor.)
 
-* [Tensorflow Kurulumu](https://github.com/metover/Yapay-Zeka/blob/master/Kurulumlar.ipynb)
+* [Kurulum Yönergeleri](https://github.com/metover/Yapay-Zeka/blob/master/Kurulumlar.ipynb)
 
+* [Python Çalışma Dosyası](https://github.com/metover/Yapay-Zeka-Egitimi/blob/master/Python%20Calisma.ipynb)
 
-## MNIST
-MNIST datasetini bilgisayarınıza repo içerisindeki "MNIST" klasörünü indirerek kullanabilirsiniz.
-
-Ayrıca indirilmeyi "mnistdownload.py" dosyası üzerinden yapmak için bulunduğunuz dizinde bir komut satırı açın.
-
-```
-python mnistdownload.py
-```
-
-komutunu çalıştırarak ototmatik olarak da indirebilirsiniz.
-
-
+* [Numpy Çalışma Dosyaları (rouigier)](https://github.com/metover/Numpy-Calisma-Dosyalari)
 
