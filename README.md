@@ -18,4 +18,4 @@ Bu repo altında temel ve giriş bilgileri yayınlanacaktır. (Yapım aşamasın
 > Kaan Can Yılmaz tarafından hazırlanan giriş düzeyi deep learning eğitimi. (https://www.kaggle.com/kanncaa1)
 
 
-![Afis](/images/tensorflowasfis2.jpg)
+![Afis](/images/tensorflowafis2.jpg)
