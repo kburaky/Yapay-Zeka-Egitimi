@@ -6,5 +6,7 @@ Bu repo altında temel ve giriş bilgileri yayınlanacaktır. (Yapım Aşamasın
 
 * [Python Çalışma Dosyası](https://github.com/metover/Yapay-Zeka-Egitimi/blob/master/Python%20Calisma.ipynb)
 
-* [Numpy Çalışma Dosyaları (rougier)](https://github.com/metover/Numpy-Calisma-Dosyalari)
+* [Numpy Çalışma Dosyaları (rougier)](https://github.com/rougier/numpy-100)
+
+* [Pandas Çalışma Dosyaları(ajcr)](https://github.com/ajcr/100-pandas-puzzles)
 
