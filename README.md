@@ -10,3 +10,4 @@ Bu repo altında temel ve giriş bilgileri yayınlanacaktır. (Yapım Aşamasın
 
 * [Pandas Çalışma Dosyaları(ajcr)](https://github.com/ajcr/100-pandas-puzzles)
 
+* [Deep Learning for Beginners(datai)](https://github.com/metover/Yapay-Zeka-Egitimi/blob/master/deep-learning-tutorial-for-beginners.ipynb)
