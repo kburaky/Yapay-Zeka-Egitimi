@@ -1,6 +1,6 @@
 # Derin Öğrenme ve Yapay Zeka
 
-Bu repo altında temel ve giriş bilgileri yayınlanacaktır. (Yapım Aşamasında düzenleme ve eklemeler devam ediyor.)
+Bu repo altında temel ve giriş bilgileri yayınlanacaktır. (Yapım aşamasında düzenleme ve eklemeler devam ediyor.)
 
 * [Kurulum Yönergeleri](https://github.com/metover/Yapay-Zeka/blob/master/Kurulumlar.ipynb)
 > Gerekli kurumlar için yönergeler
