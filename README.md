@@ -3,8 +3,10 @@
 Bu repo altında temel ve giriş bilgileri yayınlanacaktır. (Yapım Aşamasında düzenleme ve eklemeler devam ediyor.)
 
 * [Kurulum Yönergeleri](https://github.com/metover/Yapay-Zeka/blob/master/Kurulumlar.ipynb)
+> Gerekli kurumlar için yönergeler
 
 * [Python Çalışma Dosyası](https://github.com/metover/Yapay-Zeka-Egitimi/blob/master/Python%20Calisma.ipynb)
+> Python için temel örnekler.
 
 * [Numpy Çalışma Dosyaları (rougier)](https://github.com/rougier/numpy-100)
 > Numpy alıştırmaları için hazırlanan çalışma dökümanı, rougier tarafından hazırlandı.
