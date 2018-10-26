@@ -16,3 +16,6 @@ Bu repo altında temel ve giriş bilgileri yayınlanacaktır. (Yapım aşamasın
 
 * [Deep Learning for Beginners(datai)](https://github.com/metover/Yapay-Zeka-Egitimi/blob/master/deep-learning-tutorial-for-beginners.ipynb)
 > Kaan Can Yılmaz tarafından hazırlanan giriş düzeyi deep learning eğitimi. (https://www.kaggle.com/kanncaa1)
+
+
+![Afis](/images/tensorflowasfis2.jpg)
